@@ -1,4 +1,4 @@
-## Cholinergic-deficient-mouse-model: Brainstem cholinergic-deficient mouse model (VAChT^En1-Cre-flox/flox)
+# Cholinergic-deficient-mouse-model: Brainstem cholinergic-deficient mouse model (VAChT^En1-Cre-flox/flox)
 
 Male mice and their wild-type controls were evaluated at 7-10 months of age using the 5-Choice Serial Reaction Time (5-CSRT) task to assess attention. Immediately after (approximately at 9-12 months of age) these same mice were evaluated using the Extinction task to assess their ability to extinguish a response. A different cohort of male mice and their wild-type controls were evaluated at 11-13 months of age in the Pairwise visual discrimination (PVD) task to assess discrimination and reversal learning. Immediately after (still within 11-13 months of age) these same mice were evaluated using the Pairwise Associate Learning (PAL) task to assess learning and memory.
 
