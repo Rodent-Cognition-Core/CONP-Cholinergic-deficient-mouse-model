@@ -7,9 +7,9 @@
   },
   "dates": [
     {
-      "date": "2019-06-30",
+      "date": "2019-06-29 00:00:00",
       "type": {
-        "value": "This dataset was published in June 2019 in the Journal of Federation of American Societies for Experimental Biology "
+        "value": "this dataset was published in june 2019 in the journal of federation of american societies for experimental biology "
       }
     }
   ],
@@ -35,7 +35,7 @@
     }
   ],
   "version": "1",
-  "privacy": "public",
+  "privacy": "open",
   "licenses": [
     {
       "name": "CC0"
@@ -46,7 +46,7 @@
       "formats": [
         "CSV"
       ],
-      "size": "5",
+      "size": 5,
       "unit": {
         "value": "MB"
       },
@@ -194,9 +194,9 @@
       "dates": [
         {
           "description": "",
-          "date": "2019-07-30",
+          "date": "2019-07-29 00:00:00",
           "type": {
-            "value": "This dataset was published in June 2019 in the Journal of Federation of American Societies for Experimental Biology "
+            "value": "this dataset was published in june 2019 in the journal of federation of american societies for experimental biology "
           }
         }
       ],
@@ -209,12 +209,6 @@
   "isAbout": [
     {
       "name": "Cognitive behavioral data from cholinergic-deficient mouse model"
-    }
-  ],
-  "acknowledges": [
-    {
-      "name": "Grants",
-      "funders": []
     }
   ],
   "keywords": [
@@ -292,14 +286,6 @@
       ]
     },
     {
-      "category": "logo",
-      "values": [
-        {
-          "value": ""
-        }
-      ]
-    },
-    {
       "category": "contact",
       "values": [
         {
@@ -312,14 +298,6 @@
       "values": [
         {
           "value": "Touchscreen Technology"
-        }
-      ]
-    },
-    {
-      "category": "parent_dataset_id",
-      "values": [
-        {
-          "value": ""
         }
       ]
     }
