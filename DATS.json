@@ -208,9 +208,15 @@
   ],
   "isAbout": [
     {
-      "name": "Cognitive behavioral data from cholinergic-deficient mouse model"
+      "identifier": {
+        "identifier": "10088",
+        "identifierSource":"https://www.ncbi.nlm.nih.gov/taxonomy/10088"
+      },
+      "name":"Mus"
+
     }
-  ],
+  ]
+
   "keywords": [
     {
       "value": "attention"
@@ -290,14 +296,6 @@
       "values": [
         {
           "value": "Marco Prado, mprado@robarts.ca"
-        }
-      ]
-    },
-    {
-      "category": "derivedFrom",
-      "values": [
-        {
-          "value": "Touchscreen Technology"
         }
       ]
     }
